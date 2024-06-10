@@ -1,0 +1,103 @@
+body{
+    background: url('demo-image-02.jpg');
+
+}
+.asi{
+    text-align:center;
+    padding:6px;
+    margin-top:10px;
+    margin-bottom:10px;
+    
+}
+.socials {
+    text-align: center;
+  }
+
+  .social-img {
+width: 36px;
+height: 34px;
+border-radius: 20px;
+
+
+  }
+  
+  .social_list {
+    margin-inline: 24px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    list-style: none;
+   
+  }
+.socials a:hover{
+  background-color: rgb(250, 245, 98);
+
+}
+input[type=submit] {
+    background-color: #f0123a;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    align-items: center;
+    flex:center;
+
+  }
+  input[type=text], select, textarea{
+    width: 25%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+  .divide{
+    border: 1px ;
+    padding: 10px;
+    margin:auto;
+
+  
+  
+  }
+  .few{
+    color: black;
+    border-radius: 3px;
+    padding: 6px;
+    flex:center;
+    
+    box-sizing: border-box;
+    border-top-left-radius: 4px;
+  
+    margin:7px;
+    background-color: white;
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  
+  .box{
+    margin:0 auto; 
+    width:600px ;
+    padding:20px;
+    background:#f9f9f9de;
+    border:2px solid #333;
+    }
+    .box1{
+      margin:0 auto; 
+      width:400px ;
+      padding:10px;
+      background:#c4d9efde;
+      border:2px dotted #333;
+      }
+      hr{
+        background-color:none;
+        border-style:  none;
+        border-top-style: dotted;
+        border-color: grey;
+        width: 10%;
+        height: 0px;
+        border-width: 4px;
+        
+      }
